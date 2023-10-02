@@ -1,11 +1,19 @@
 {
-  "posts": [
+  "product": [
     {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+      "title": "Acer Aspire 3",
+      "imageSrc": "/assets/product-list/Acer-Aspire-3.png",
+      "price": "$358"
+  },
+  {
+      "title": "Acer Nitro 7",
+      "imageSrc": "/assets/product-list/Acer-nitro-7.png",
+      "price": "$459"
+  },
+  {
+      "title": "Acer Swift 3",
+      "imageSrc": "/assets/product-list/Acer-swift-3.png",
+      "price": "$338"
   }
+  ]
 }
